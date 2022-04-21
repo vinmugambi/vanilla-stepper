@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Step one",
+    "questions": [
+      {
+        "label": "Country",
+        "options": [
+          { "value": "KE", "label": "Kenya" },
+          { "value": "UG", "label": "Uganda" }
+        ],
+        "validOptions": ["KE", "UG"]
+      },
+      { "label": "City", "options": [] }
+    ]
+  },
+  {
+    "title": "Step two",
+    "questions": [
+      {
+        "label": "Gender",
+        "options": [
+          { "value": "MALE", "label": "Male" },
+          { "value": "FEMALE", "label": "Female" }
+        ],
+        "validOptions": ["KE", "UG"]
+      },
+      {
+        "label": "Age",
+        "options": [
+          { "value": "UNDERAGE", "label": "Below 18 years" },
+          { "value": "ADULT", "label": "Above 18 years " }
+        ]
+      }
+    ]
+  }
+]
