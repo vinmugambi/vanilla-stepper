@@ -22,14 +22,15 @@
           { "value": "MALE", "label": "Male" },
           { "value": "FEMALE", "label": "Female" }
         ],
-        "validOptions": ["KE", "UG"]
+        "validOptions": ["MALE", "FEMALE"]
       },
       {
         "label": "Age",
         "options": [
           { "value": "UNDERAGE", "label": "Below 18 years" },
           { "value": "ADULT", "label": "Above 18 years " }
-        ]
+        ],
+        "validOptions": ["ADULT"]
       }
     ]
   }
